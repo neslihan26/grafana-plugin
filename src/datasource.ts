@@ -12,7 +12,7 @@ import {
 import { MyQuery, MyDataSourceOptions, DEFAULT_QUERY, DataSourceResponse } from './types';
 import { lastValueFrom } from 'rxjs';
 
-/* const oracledb = require('oracledb'); */
+
 import ping from 'ping';
 
 
