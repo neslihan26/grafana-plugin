@@ -1,0 +1,3 @@
+docker exec -it <mycontainer> sh
+npm run dev
+docker compose up
